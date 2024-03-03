@@ -1,7 +1,5 @@
 # FIXIT - Issue Tracker Web Application
 
-![FIXIT Logo](/images/fixit-logo.png)
-
 FIXIT is a modern issue tracker web application built using the latest technologies to streamline your project management and issue resolution process. With a sleek interface and robust features, FIXIT aims to make issue tracking effortless and efficient.
 
 ## Features
@@ -15,13 +13,13 @@ FIXIT is a modern issue tracker web application built using the latest technolog
 
 ## Screenshots
 
-![FIXIT Dashboard](https://github.com/gpslakshan/FIXIT/blob/[branch]/image.jpg?raw=true)
+![FIXIT Dashboard](https://github.com/gpslakshan/FIXIT/blob/main/public/Dashboard.png)
 _FIXIT Dashboard - Track and manage your project issues with ease._
 
-![FIXIT Issues](https://github.com/gpslakshan/FIXIT/blob/[branch]/image.jpg?raw=true)
-_FIXIT Issue Details - Dive deep into each issue for comprehensive information and updates._
+![FIXIT View all Issues](https://github.com/gpslakshan/FIXIT/blob/main/public/Issues.png)
+_FIXIT View all Issues - View all the issues with ease._
 
-![FIXIT Issue Details](https://github.com/gpslakshan/FIXIT/blob/[branch]/image.jpg?raw=true)
+![FIXIT Issue Details](https://github.com/gpslakshan/FIXIT/blob/main/public/Issue-Detail.png)
 _FIXIT Issue Details - Dive deep into each issue for comprehensive information and updates._
 
 ## Getting Started
