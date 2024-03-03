@@ -26,7 +26,7 @@ _FIXIT Issue Details - Dive deep into each issue for comprehensive information a
 
 To get started with FIXIT on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/fixit.git`
+1. Clone the repository: `git clone https://github.com/gpslakshan/FIXIT.git`
 2. Install dependencies: `npm install`
 3. Set up the MySQL database and configure the connection in the `.env` file.
 4. Run the migrations: `npx prisma migrate dev`
